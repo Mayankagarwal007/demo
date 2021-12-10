@@ -1,0 +1,129 @@
+.demo .carousel-indicators {
+    margin-left: 5px;
+    width: 100%;
+    position:relative;
+    margin-top: 10px;
+    margin-bottom:0;
+}
+/* Indicators list style */
+.demo .carousel-indicators li {
+    border: medium none;
+    border-radius: 0;
+    float: left;
+    height: 100px;
+    margin-bottom: 5px;
+    margin-left: 0;
+    margin-right: 5px !important;
+    margin-top: 0;
+    width: 100px;
+}
+.demo .carousel-indicators img {
+    border: 2px solid #FFFFFF;
+    float: left;
+    max-height: 100px;
+    left: 0;
+    max-width: 100px;
+    margin:0 2px;
+}
+/* Indicators active image style */
+.demo .carousel-indicators .active img {
+    border: 2px solid #428BCA;
+    opacity: 0.7;
+}
+
+
+.related .card{
+    text-align: center;
+    margin:0;
+    margin-left:2px!important;
+    margin-right:2px!important;
+    max-width:270px;
+    padding:10px;
+    border:0;
+}
+
+.operations button{
+    margin:0 10px;
+}
+
+.table td{
+    padding:1px;
+    margin:0px;
+}
+
+.overall-rating .stars li{
+    font-size: 30px;
+}
+#stars-existing>*{
+    font-size: 25px;
+}
+
+.qas .card{
+    margin-bottom:10px;
+}
+
+.main-imgs{
+    height:350px;
+    width:100%;
+}
+.img-fluid{
+    height:90%;
+    width:auto;
+    text-align: center;
+}
+.main-imgs{
+    text-align:center;
+}
+
+
+#demo .card img{
+    width:100%;
+}
+li img{
+    height:100%;
+    width:auto;
+}
+.related .card-title-outer{
+    font-size:14px;
+}
+
+
+.related .card-title-outer{
+    height:70px;
+    overflow:hidden;
+    position:relative;
+}
+.related .card{
+    text-align: center;
+    margin:0;
+    margin-left:2px!important;
+    margin-right:2px!important;
+    max-width:270px;
+    padding:10px;
+    border:0;
+}
+
+.related .card-img{
+    width:100%;
+    height:230px;
+    display:flex;
+    align-items: center;
+}
+
+.related .card-img-top{
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    max-height: 100%;
+    margin: 0 auto;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    background-color: #007bff;
+}
+#demo2 .carousel-control-prev,#demo2 .carousel-control-next{
+    width:20px;
+
+}
+#demo2 .carousel-control-prev-icon,#demo2 .carousel-control-next-icon{
+    background-color:#007bff;
+}

@@ -1,0 +1,18 @@
+.disprow>*{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+
+}
+
+.dispimg{
+    width:200px;
+    height:auto;
+}
+
+.qas > *{
+    margin:5px;
+}
+.qas .card-body {
+    display:none;
+}

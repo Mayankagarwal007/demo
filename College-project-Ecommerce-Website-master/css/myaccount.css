@@ -1,0 +1,57 @@
+
+#menu li a{
+    padding:5px 10px;
+}
+
+.body2>.row>div{
+    margin-bottom:15px;
+}
+section#cart table .product-image{
+    width:200px
+}
+#tabfav table .product-image{
+    width:200px
+}
+.product-image img{
+    max-height:100%;
+    margin:0 auto;
+
+} 
+
+section#cart table td{
+    vertical-align: middle;
+  
+}
+section#cart table td >*{
+    display: flex;
+    justify-content: space-between;
+}
+table ul{
+    list-style-type:none;
+}
+
+.alert{
+    display: none;
+}
+#tabfav table td{
+    vertical-align: middle;
+    text-align: center;
+}
+#tabfav table td >*{
+   text-align:center;
+}
+
+.lastbtns>*{
+    margin:20px auto;
+    text-align: center;
+}
+
+.lastbtns{
+    display: flex;
+    flex-direction: column;
+}
+.product-image{
+    height:200px;
+    text-align: center;
+}
+
